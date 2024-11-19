@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgmTest Core", "PgmTest Core\PgmTest Core.csproj", "{0560F725-940C-4FDC-9D1D-A140811C91AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgmTestCore", "PgmTestCore\PgmTestCore.csproj", "{0560F725-940C-4FDC-9D1D-A140811C91AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgmTest Tests", "PgmTest Tests\PgmTest Tests.csproj", "{9C1AF0E4-00A3-490C-A830-8F7CBD715A6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgmTestTests", "PgmTestTests\PgmTestTests.csproj", "{9C1AF0E4-00A3-490C-A830-8F7CBD715A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgmTest Exec", "PgmTest Exec\PgmTest Exec.csproj", "{13FBB4BB-EE05-4305-B06D-2135B2F8B299}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgmTestExec", "PgmTestExec\PgmTestExec.csproj", "{13FBB4BB-EE05-4305-B06D-2135B2F8B299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
