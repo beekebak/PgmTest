@@ -9,14 +9,13 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <!-- Включаем файл Test в ресурсы -->
         <None Include="resources\Test">
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </None>
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\PgmTest Core\PgmTest Core.csproj" />
+        <ProjectReference Include="..\PgmTestCore\PgmTestCore.csproj" />
     </ItemGroup>
 
 </Project>
